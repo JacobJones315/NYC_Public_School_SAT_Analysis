@@ -8,7 +8,7 @@
 
 * Remarkably, Manhattan emerges as the top-performing borough overall. With a substantial 89 public schools and an impressive average SAT score of 1340, it appears to be a prime location for those looking for a puplic school to enroll in.
 
-* In summary, while Staten Island's average SAT scores shine, the limited number of schools should be considered. Manhattan, with a combination of a high number of schools and strong average scores, emerges as a promising choice for future enrollees.
+* In summary, while Staten Island boasts impressive average SAT scores, the consideration of a limited number of schools is crucial. Notably, the presence of the Staten Island Technical High School, ranking #2 in average SAT scores across New York City, adds a notable distinction to the borough. Manhattan, with a combination of a high number of schools and strong average scores is a promising choice for future enrollees. Offering a combination of a high number of schools and strong average scores. The borough not only provides a broad spectrum of educational options but is also home to the #1 ranking school across New York City, Stuyvesant High School.
 
 
 ## Screenshot of Line Chart, Bar Charts and Heatmap Generated
